@@ -28,5 +28,4 @@ pnpm-debug.log*
 .DS_Store
 Thumbs.db
 
-# Runtime data (Optional: Uncomment if you don't want to track leaderboard updates)
-# data/leaderboard.json
+data/leaderboard.json
